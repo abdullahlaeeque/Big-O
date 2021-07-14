@@ -8,4 +8,4 @@ function pythagoreanTriplet(n){
       }
     }
   }
-  pythagoreanTriplet(25)
+  pythagoreanTriplet(9007199254740991)
